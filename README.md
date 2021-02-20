@@ -12,7 +12,7 @@ A small web proxy server which is able to cache web pages.
 1. Error handling - Response "404 Not found" response when the link is not applicable. 
 2. GET - The simple proxy server proxy_server_get.py supports HTTP GET method.
 3. POST - The simple proxy server proxy_server_post.py supports HTTP POST method.
-
+4. cache - Support local cache.
 ##  Usage Examples ##
 1. Execute python3 .\proxy_server_get.py 127.0.0.1\
    Put http://localhost:8888/www.google.com as url on your browser 
