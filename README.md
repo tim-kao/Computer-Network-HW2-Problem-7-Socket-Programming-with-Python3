@@ -21,12 +21,12 @@ Server response 304
 4. cache - Support local cache and send 'If-Modified-Since'.
 ##  Usage Examples ##
 1. Execute python3 .\proxy_server_get.py 127.0.0.1\
-   a. Put http://localhost:8888/www.google.com as url on your browser 
+   a. Put http://localhost:8888/www.google.com as url on your browser \
    b. Put http://localhost:8888/www.posttestserver.com/ as url on your browser 
 2. Execute python3 .\proxy_server_post.py 127.0.0.1\
-   a. Put http://localhost:8888/ptsv2.com/t/lztm4-1613635628/post as url on your browser
+   a. Put http://localhost:8888/ptsv2.com/t/lztm4-1613635628/post as url on your browser\
    b. Put http://localhost:8888/www.posttestserver.com/
-3. Caching: A typical proxy server will cache the web pages each time the client makes a particular
+3. Caching: A typical proxy server will cache the web pages each time the client makes a particular\
 request for the first time. The cache file name is made as url of the website, such as 'www.google.com'
    
 ## Contributor ##
