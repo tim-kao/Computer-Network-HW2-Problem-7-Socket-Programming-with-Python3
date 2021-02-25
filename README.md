@@ -5,12 +5,15 @@ Lab 5: HTTP Web Proxy Server. \
 A small web proxy server which is able to cache web pages.
 
 ## Demo ##
-GET[image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/get.png)
-POST[image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/post.png)
+GET
+![image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/get.png)
+POST
+![image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/post.png)
 
-Conditional Get(If-Modified-Since)[image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/Conditional_Get.png)
+Conditional Get(If-Modified-Since)
+![image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/Conditional_Get.png)
 Server response 304
-[image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/reponse_304.png)
+![image](https://github.com/tim-kao/Computer-Network-HW2-Problem-7-Socket-Programming-with-Python3/blob/main/reponse_304.png)
 ## Feature ##
 1. Error handling - Response "404 Not found" response when the link is not applicable. 
 2. GET - The simple proxy server proxy_server_get.py supports HTTP GET method.
